@@ -10,10 +10,10 @@
     "babel-eslint": "^8.2.3",
     "bip39": "^2.5.0",
     "eslint-config-defaults": "^9.0.0",
-    "eslint-plugin-react": "^7.7.0",
+    "eslint-plugin-react": "^7.10.0",
     "ethereumjs-abi": "^0.6.5",
-    "ethereumjs-util": "^5.1.5",
-    "ethereumjs-wallet": "^0.6.0",
+    "ethereumjs-util": "^5.2.1",
+    "ethereumjs-wallet": "^1.0.2",
     "web3": "^1.0.0-beta.34",
     "web3-provider-engine": "^14.0.4",
     "zeppelin-solidity": "^1.8.0"
